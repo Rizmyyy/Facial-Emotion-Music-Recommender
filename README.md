@@ -69,7 +69,8 @@ Berikut adalah contoh penggunaan sistem rekomendasi musik ini dengan gambar waja
 
 ![Screenshot 2025-07-10 144731](https://github.com/user-attachments/assets/e5da6de7-6dc8-4f28-9360-93d862fee134)
 
-![Screenshot 2025-07-10 105156](https://github.com/user-attachments/assets/5e410c9f-0f2f-48d1-90d9-5822e2f1cf67)
+![Screenshot 2025-07-10 144942](https://github.com/user-attachments/assets/9b153e8a-d012-416f-bd4f-12a35da7db7e)
+
 
 
 ## Peningkatan di Masa Depan
@@ -82,10 +83,9 @@ Berikut adalah contoh penggunaan sistem rekomendasi musik ini dengan gambar waja
 
 ## Kontributor
 
-* **[Nama Lengkap Anda]** ([Profil GitHub Anda](https://github.com/your-username)) - Mahasiswa Informatika [Semester Anda Saat Ini]
+* **Mohammad Satria Zacky Mudzaffar** (https://github.com/Rizmyyy/Facial-Emotion-Music-Recommender) - Mahasiswa Informatika
 
 ## Lisensi
-
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detailnya.
 
 ---
