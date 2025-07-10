@@ -69,7 +69,7 @@ Berikut adalah contoh penggunaan sistem rekomendasi musik ini dengan gambar waja
 
 ![Screenshot 2025-07-10 144731](https://github.com/user-attachments/assets/e5da6de7-6dc8-4f28-9360-93d862fee134)
 
-![Screenshot 2025-07-10 144731](https://github.com/user-attachments/assets/e44e8ed4-9a72-4d82-a345-5ba910a5e0ef)
+![Screenshot 2025-07-10 105156](https://github.com/user-attachments/assets/5e410c9f-0f2f-48d1-90d9-5822e2f1cf67)
 
 
 ## Peningkatan di Masa Depan
